@@ -1,0 +1,45 @@
+body {
+
+    background-size: cover;
+    
+    text-align: center;
+    
+    }
+    
+    .heading {
+    
+    margin: 0;
+    
+    width: 100%;
+    height: 50px;
+    
+    }
+    
+    #Object_name {
+    
+    border-radius:5px;
+    text-align: center;
+    width: 350px;
+    
+    }
+    
+    canvas {
+    
+    border: 5px solid white;
+    
+    border-radius:20px;
+    
+    box-shadow: 5px 5px 5px gray;
+    
+    }
+
+    h1
+    {
+        font-family: 'PT Sans';
+        font-style: italic;
+    }
+
+    label
+    {
+        font-size: 15px;
+    }
