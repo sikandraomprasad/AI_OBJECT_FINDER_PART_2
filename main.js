@@ -11,6 +11,8 @@ canvas.position(430, 260);
 video = createCapture(VIDEO);
 
 video.hide();
+  
+  canvas.center();
 
 }
 
